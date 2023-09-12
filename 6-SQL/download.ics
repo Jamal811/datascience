@@ -1,0 +1,57 @@
+ BEGIN:VCALENDAR
+PRODID:-//Coursera//Learner Study Calendar 1.0//EN
+NAME:Coursera Study Calendar
+X-WR-CALNAME:Coursera Study Calendar
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230907T175132Z
+DTSTART:20230904T060000
+DTEND:20230904T120000
+SUMMARY:Learning time - Databases and SQL for Data Science with Python
+UID:GDQMSxDWEeitFhJL4G-A_g~2023-09-07T17:51:32.592407465~courseraorg
+DESCRIPTION:Course: Databases and SQL for Data Science with Python\nhttps
+ ://www.coursera.org/learn/sql-data-science/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20231024T111849Z;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230907T175132Z
+DTSTART:20230905T060000
+DTEND:20230905T120000
+SUMMARY:Learning time - Databases and SQL for Data Science with Python
+UID:GDQMSxDWEeitFhJL4G-A_g~2023-09-07T17:51:32.629854236~courseraorg
+DESCRIPTION:Course: Databases and SQL for Data Science with Python\nhttps
+ ://www.coursera.org/learn/sql-data-science/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20231024T111849Z;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230907T175132Z
+DTSTART:20230906T060000
+DTEND:20230906T120000
+SUMMARY:Learning time - Databases and SQL for Data Science with Python
+UID:GDQMSxDWEeitFhJL4G-A_g~2023-09-07T17:51:32.663955787~courseraorg
+DESCRIPTION:Course: Databases and SQL for Data Science with Python\nhttps
+ ://www.coursera.org/learn/sql-data-science/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20231024T111849Z;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230907T175132Z
+DTSTART:20230907T060000
+DTEND:20230907T120000
+SUMMARY:Learning time - Databases and SQL for Data Science with Python
+UID:GDQMSxDWEeitFhJL4G-A_g~2023-09-07T17:51:32.695091117~courseraorg
+DESCRIPTION:Course: Databases and SQL for Data Science with Python\nhttps
+ ://www.coursera.org/learn/sql-data-science/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20231024T111849Z;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230907T175132Z
+DTSTART:20230908T060000
+DTEND:20230908T120000
+SUMMARY:Learning time - Databases and SQL for Data Science with Python
+UID:GDQMSxDWEeitFhJL4G-A_g~2023-09-07T17:51:32.722302193~courseraorg
+DESCRIPTION:Course: Databases and SQL for Data Science with Python\nhttps
+ ://www.coursera.org/learn/sql-data-science/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20231024T111849Z;BYDAY=FR
+END:VEVENT
+END:VCALENDAR
